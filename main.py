@@ -1,5 +1,3 @@
-#!/home/thenerdsuperuser/.local/share/virtualenvs/something-CdvUv4a3/bin/python3.7
-
 from config import *
 from time import gmtime, strftime
 from datetime import datetime
